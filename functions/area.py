@@ -12,5 +12,6 @@ def circle(r):
 
 print("The area of rectangle is :",rectangle(9,8))
 print("The area of triangle is :",triangle(2,4))
-print("The area of circle is :",circle(0.5))
+print("The area of circle is  this:",circle(0.5))
+
 
