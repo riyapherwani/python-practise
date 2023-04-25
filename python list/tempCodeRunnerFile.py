@@ -1,0 +1,1 @@
+dict1 ={k for k in range(1,10):v=ascii(k) for v in range(1,10)}
